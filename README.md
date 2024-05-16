@@ -3,4 +3,4 @@ so I prepared a subset that is 10% of the train and test datasets. Train on the 
 
 *mmlu_dataset.ipynb* contains the demonstration of how to use tiny benchmarks on a subset from MMLU to evaluate two LLMs.
 
-assignment_bert* contans all the information necessary to complete the assignment for next week.
+assignment_bert contans all the information necessary to complete the assignment for next week.
