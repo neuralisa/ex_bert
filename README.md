@@ -11,3 +11,7 @@ To download the full dataset use the following commands (For Linux or MacOS):
 !unzip reviews.zip
 If you are using Windows download the dataset using your preferred browser:
 https://github.com/iust-deep-learning/982/raw/master/static_files/assignments/asg04_assets/reviews.zip
+
+**Update** 
+
+Added GPT fine tuning example from Oleh.
